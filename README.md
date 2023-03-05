@@ -23,3 +23,8 @@
   <a href="https://www.linkedin.com/in/bruno-arag%C3%A3o-2b7553b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<img src="http://pa1.narvii.com/6941/092caf303fe02d05cf6cb140493cdddc95f2c2c1r1-498-537_00.gif" width="200">
+

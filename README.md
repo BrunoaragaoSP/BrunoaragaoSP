@@ -1,5 +1,7 @@
 ### 🪐 Oi, eu sou o Bruno Aragão 👋
 
+##
+
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 📫 Contato: nickilha21@gmail.com
 

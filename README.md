@@ -4,6 +4,7 @@
 
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 📫 Contato: nickilha21@gmail.com
+- 💻 Se especializando em Front-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoaragaoSP&show_icons=true&theme=highcontrast)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoaragaoSP&langs_count=12&layout=compact&theme=midnight-purple">
